@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d1" for="node" attr.name="w_degree" attr.type="long" />
+  <key id="d0" for="node" attr.name="degree" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="452">
+      <data key="d0">942</data>
+      <data key="d1">33711</data>
+      <data key="d2">0.0018298124150578925</data>
+    </node>
+    <node id="774">
+      <data key="d0">939</data>
+      <data key="d1">35448</data>
+      <data key="d2">0.0018954932803553466</data>
+    </node>
+    <node id="519">
+      <data key="d0">812</data>
+      <data key="d1">4442</data>
+      <data key="d2">0.0004194683942533189</data>
+    </node>
+    <node id="935">
+      <data key="d0">928</data>
+      <data key="d1">9370</data>
+      <data key="d2">0.0006481747192560345</data>
+    </node>
+    <node id="73">
+      <data key="d0">942</data>
+      <data key="d1">13740</data>
+      <data key="d2">0.000858760572494785</data>
+    </node>
+    <node id="777">
+      <data key="d0">932</data>
+      <data key="d1">8610</data>
+      <data key="d2">0.0005981311798794813</data>
+    </node>
+    <node id="757">
+      <data key="d0">942</data>
+      <data key="d1">30965</data>
+      <data key="d2">0.0017016216103838936</data>
+    </node>
+    <node id="408">
+      <data key="d0">885</data>
+      <data key="d1">5854</data>
+      <data key="d2">0.0005005876017215649</data>
+    </node>
+    <edge source="452" target="73">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="452" target="757">
+      <data key="d3">53</data>
+    </edge>
+    <edge source="452" target="774">
+      <data key="d3">72</data>
+    </edge>
+    <edge source="452" target="777">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="452" target="935">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="452" target="519">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="452" target="408">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="774" target="757">
+      <data key="d3">86</data>
+    </edge>
+    <edge source="774" target="73">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="774" target="777">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="774" target="935">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="774" target="408">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="519" target="73">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="519" target="408">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="519" target="757">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="519" target="777">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="519" target="935">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="935" target="73">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="935" target="777">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="935" target="757">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="935" target="408">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="73" target="777">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="73" target="757">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="73" target="408">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="777" target="757">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="777" target="408">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="757" target="408">
+      <data key="d3">8</data>
+    </edge>
+  </graph>
+</graphml>
