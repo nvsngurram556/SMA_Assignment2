@@ -1,0 +1,5 @@
+Best modularity: 0.0
+Community 1 (size 2): [18447, 54019]
+Community 2 (size 6): [10526, 21431, 21813, 35293, 69363, 69881]
+Number of communities: 2
+Size distribution: [2, 6]
